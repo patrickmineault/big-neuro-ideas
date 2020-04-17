@@ -2,13 +2,18 @@
 
 A curriculum for the study of big ideas in neuroscience. An ongoing journal club.
 
+# What's in store?
+
+We're reading [Gibson, an ecological approach to perception (1968)](https://archive.org/details/pdfy-u5hmFOvOM2Civ4Gz/mode/2up). Notes so far:
+
+* [Week 1: Chapters 1, 2, 3](gibson/week1.md)
+
 ## What's a *big idea*?
 
 An idea that tries to unify a bunch of disparate observations about the brain, with a theoretical slant. Preferably with an explanatory bent rather than phenomenological, with an emphasis on theory. We prefer books and articles that have withstood the test of time (i.e. 10 years or older). Sometimes a big idea can just be about asking the right question, not solving it.
 
 ## On the docket
 
-* [Gibson, an ecological approach to perception (1968)](https://archive.org/details/pdfy-u5hmFOvOM2Civ4Gz/mode/2up)
 * [Rao and Ballard (1999), Predictive coding in the visual cortex](https://www.ncbi.nlm.nih.gov/pubmed/10195184)
 * [McIntosh and Schenk (2009), two visual streams for perception and action](https://www.ncbi.nlm.nih.gov/pubmed/19428404)
 * [23 problems in systems neuroscience (2005)](https://www.amazon.com/23-Problems-Systems-Neuroscience-Computational/dp/0195148223/ref=sr_1_1?crid=3D60KCO1WQWXV)
