@@ -26,3 +26,4 @@
 * [Car detectors and cat detectors](https://distill.pub/2020/circuits/zoom-in/)
 * [What does 85% of V1 do?](http://www.rctn.org/bruno/papers/V1-chapter.pdf)
 * [The genome: Blaise's talk at NeurIPS this year](https://www.youtube.com/watch?v=uyUbGatPKpI) 
+* [Cisek, Resynthesizing behaviour through phylogenetic refinement](https://link.springer.com/article/10.3758/s13414-019-01760-1) (2019)
