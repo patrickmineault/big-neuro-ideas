@@ -28,3 +28,15 @@
 * [The genome: Blaise's talk at NeurIPS this year](https://www.youtube.com/watch?v=uyUbGatPKpI) 
 * [Cisek, Resynthesizing behaviour through phylogenetic refinement](https://link.springer.com/article/10.3758/s13414-019-01760-1) (2019)
 * [Constant Bearing Strategy (the heuristic) vs. model based control](https://jov.arvojournals.org/article.aspx?articleid=2628975)
+
+# Chapters 3 and 4
+
+## Threads we discussed
+
+* How animals innately show behavioral responses to some visual features such as a fear of sharp drops. Pointing to "the cliff test," as described in [Liz Spelke's 2019 CCN keynote](https://www.youtube.com/watch?v=ilDWHpy0y-A)
+
+
+## Papers
+
+* [Representational models and the feature fallacy](http://www.diedrichsenlab.org/pubs/RepresentationalModels_2018.pdf)
+
