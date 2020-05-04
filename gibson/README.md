@@ -10,6 +10,8 @@ But are the tasks really similar?
 ImageNet tries to put accurate, highly specific labels on everything.
 We mostly don’t.
 
+[Weekly notes are here](notes.md).
+
 When I walk down the street (remember that?),
 I don’t classify every single thing I see so that some inner homunculus knows the location of `English Spaniel (Beineim)’
 or `Self-propelled Motorized Vehicle (used)’.
