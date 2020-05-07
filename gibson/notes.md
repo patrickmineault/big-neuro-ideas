@@ -42,6 +42,8 @@
 
 # Chapter 5
 
+[Recording](https://mcgill-my.sharepoint.com/:v:/g/personal/matthew_krause_mcgill_ca/EYFuHBxOQ8FCoGDifl1PYS8BT6lFh6br-E82tphU0QrBIg)
+
 ## The ambient optic array
 
 Given a point of observation at some position, the arrangement (heterogeneous structure) of surfaces as conveyed by ambient light in the medium completely surrounding that point.Observer can be inside ambient optic array, but isn’t strictly necessary. When a position is occupied, it now contains information about the body of the observer. This changes the space! Differentiates this framework from perspective in geometry.
