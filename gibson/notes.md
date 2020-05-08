@@ -40,3 +40,47 @@
 
 * [Representational models and the feature fallacy](http://www.diedrichsenlab.org/pubs/RepresentationalModels_2018.pdf)
 
+# Chapter 5
+
+[Recording](https://mcgill-my.sharepoint.com/:v:/g/personal/matthew_krause_mcgill_ca/EYFuHBxOQ8FCoGDifl1PYS8BT6lFh6br-E82tphU0QrBIg)
+
+## The ambient optic array
+
+Given a point of observation at some position, the arrangement (heterogeneous structure) of surfaces as conveyed by ambient light in the medium completely surrounding that point.Observer can be inside ambient optic array, but isn’t strictly necessary. When a position is occupied, it now contains information about the body of the observer. This changes the space! Differentiates this framework from perspective in geometry.
+
+The point of observation in ecological optics is never stationary except as a limiting case.
+
+## Optic flow
+
+* Gibson was important for the idea of “optic flow”: [https://en.wikipedia.org/wiki/Optical_flow](https://en.wikipedia.org/wiki/Optical_flow)
+
+* Spiders move their heads to use parallax as a cue: [https://science.sciencemag.org/content/335/6067/469](https://science.sciencemag.org/content/335/6067/469)
+
+* Some note on optic flow: [http://www.cim.mcgill.ca/%7Elanger/558/2-translation-slides.pdf](http://www.cim.mcgill.ca/%7Elanger/558/2-translation-slides.pdf)
+
+* Bees and optic flow: [https://jeb.biologists.org/content/jexbio/218/7/1051.full.pdf](https://jeb.biologists.org/content/jexbio/218/7/1051.full.pdf) 
+
+* Optic flow (flowing perspective structure) specifies any particular path of locomotion.
+
+## Invariants and occlusion
+
+Although a rectangular surface (e.g., a table) may appear like a trapezoid from a given perspective, you perceive the invariant rectangular shape given different points of observation.
+
+Flowing perspective structure and invariances in structure are coupled.
+
+We perceive whole objects even when they’re occluded by other objects; occluded objects are only temporarily out of sight, so locomotion can resolve uncertainty associated with occlusion (reversibility of occlusion).
+
+“The moving observer and the moving sun are conditions under which terrestrial vision has evolved for millions of years.”
+
+Occluded face culling on the PS1: [https://youtu.be/x8TO-nrUtSI?t=286](https://youtu.be/x8TO-nrUtSI?t=286) 
+
+Tenenbaum paper on physical simulation as an engine for understanding: https://www.pnas.org/content/110/45/18327.short
+
+# Chapter 6
+
+Eliz references for chapter 6; failed attempts at classification:
+
+* Diderot’s classification of all of human knowledge: [https://en.wikipedia.org/wiki/Figurative_system_of_human_knowledge](https://en.wikipedia.org/wiki/Figurative_system_of_human_knowledge)
+
+* John Wilkins classifying the world in 40 categories: [https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/](https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/)
+

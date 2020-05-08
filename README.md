@@ -6,8 +6,10 @@ An ongoing journal club for the study of big ideas in neuroscience.
 
 We're reading [Gibson, an ecological approach to perception (1968)](https://archive.org/details/pdfy-u5hmFOvOM2Civ4Gz/mode/2up). Notes so far:
 
-* [Week 1: Chapters 1, 2, 3](gibson/week1.md)
-* [Week 2: Chapters 3,4](gibson/week1.md#chapters-3-and-4)
+* [Week 1: Chapters 1, 2, 3](gibson/notes.md)
+* [Week 2: Chapters 3, 4](gibson/notes.md#chapters-3-and-4)
+* [Week 3: Chapter 5](gibson/notes.md#chapter-5)
+
 
 ## What's a *big idea*?
 
