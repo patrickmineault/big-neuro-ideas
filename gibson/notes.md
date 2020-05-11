@@ -78,9 +78,61 @@ Tenenbaum paper on physical simulation as an engine for understanding: https://w
 
 # Chapter 6
 
-Eliz references for chapter 6; failed attempts at classification:
+Events are not time…
+
+Three kinds of (TERRESTRIAL) events
+
+1. change in layout of surfaces
+2. change in color and texture of surfaces
+3. change in the existence of surfaces
+
+Events are nested.
+
+Change (over time) as a general concept,
+
+What is common between what happens in the real world and what happens in the optic array?
+
+* sequences of events (?)
+* temporal synchrony
+
+flash lag experiments
+
+What would Gibson think of Edelman’s concept of representation?
+
+* internal representations of the world are linked to external events in the world
+
+but Gibson seems to argue that there is no 1-to-1 mapping between state of the world and internal states
+
+however the final outcome (action in the world) might still be valid
+
+Russ Poldrack: do neuroscience and machine learning concepts of representation satisfy philosophical criteria for “representations”?
+
+Gibsonian sense of representation: they just need to encode information about the world even if they do not match “THE REAL WORLD” (whatever that is)
+
+Events define time. There is no arrow of time. Nice link with recent cog neuro experiments on boundaries of events.
+
+This chapter feels human-centered. It’s unclear if all animals, for example, would care about all the changes that are described in chapter 6.
+
+Value of classification: “things that happen on a Tuesday” (does the ability to classify something mean that the class is real (?))
+
+What about water? changes in water, are they events?
+
+Events and time are defined by the sensory systems the animal possesses 
+
+#### Links
+
+* Patients with akinetopsia: what happens to their perception of events? List from wikipedia: [https://en.wikipedia.org/wiki/Akinetopsia](https://en.wikipedia.org/wiki/Akinetopsia) 
+
+* Children do *not* initially recognize some events as reversible; develops in middle-childhood: https://courses.lumenlearning.com/suny-hccc-ss-152-1/chapter/cognitive-development-3/
+
+* Looming experiments: neurons in the fly, mouse, pidgeon, etc. Predict time of contact. https://www.pnas.org/content/109/36/E2391.long
+
+* Neural Mechanisms youtube channel: [https://www.youtube.com/channel/UCxlPDIVtY4bN4apwyuSN0Iw/videos](https://www.youtube.com/channel/UCxlPDIVtY4bN4apwyuSN0Iw/videos)
+
+* Russ Poldrack “Physics of Representation” paper: [https://drive.google.com/open?id=1YHI_UOUmafimAE3xZFU1G3mBXqAIuFHb](https://drive.google.com/open?id=1YHI_UOUmafimAE3xZFU1G3mBXqAIuFHb)
 
 * Diderot’s classification of all of human knowledge: [https://en.wikipedia.org/wiki/Figurative_system_of_human_knowledge](https://en.wikipedia.org/wiki/Figurative_system_of_human_knowledge)
 
 * John Wilkins classifying the world in 40 categories: [https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/](https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/)
 
+* Jorge Luis Borges’ “Celestial Emporium of Benevolent Knowledge”: [https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge](https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge) 
