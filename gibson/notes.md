@@ -137,7 +137,7 @@ Events and time are defined by the sensory systems the animal possesses
 
 * Jorge Luis Borges’ “Celestial Emporium of Benevolent Knowledge”: [https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge](https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge) 
 
-Chapter 7:
+# Chapter 7:
 
 Field of vision: different for different types of animals; fixed by eyes
 
