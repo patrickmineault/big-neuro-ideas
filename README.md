@@ -10,6 +10,7 @@ We're reading [Gibson, an ecological approach to perception (1968)](https://arch
 * [Week 2: Chapters 3, 4](gibson/notes.md#chapters-3-and-4)
 * [Week 3: Chapter 5](gibson/notes.md#chapter-5)
 * [Week 4: Chapter 6](gibson/notes.md#chapter-6)
+* [Week 5: Chapter 7](gibson/notes.md#chapter-6)
 
 
 ## What's a *big idea*?
