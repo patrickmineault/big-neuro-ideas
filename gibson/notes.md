@@ -136,3 +136,55 @@ Events and time are defined by the sensory systems the animal possesses
 * John Wilkins classifying the world in 40 categories: [https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/](https://blogs.bodleian.ox.ac.uk/oxfordtrainees/2011/11/22/1152/)
 
 * Jorge Luis Borges’ “Celestial Emporium of Benevolent Knowledge”: [https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge](https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge) 
+
+Chapter 7:
+
+Field of vision: different for different types of animals; fixed by eyes
+
+Egoception vs exteroception: two sides of the same coin
+  - Every sense can be a proprioceptive sense
+  - Senses aren’t just specific “nerve energies”; multiple signals need to be combined to extract useful information
+    
+Distance isn’t “a line endwise from the eye”: 
+  - depends on size, disparity, motion perspectives
+  - Nose as “baseline”: is it true?
+  - Would people overestimate distances on rolling terrain? (Shades of embodied cognition!)
+  
+Locomotion produces expansive (“centrifugal) and contractive (“centripedal”) optic flow, except(?) for some invariant structures like the earth/sky
+  - Gibson also coined the term "optic flow", which is why Figure 7.4 is in EVERY single lecture about it.
+  - How much optic flow happens in real life--plenty of expansion/contraction from locomotion, less translation? (Couldn't find much on this)
+  
+ Hands provide a "calibration signal" for size:
+   - Have a fixed minimum size size (arm at full extension)
+   - Developmentally relevant? What happens if you can't see/control limb early in life?
+   - Size estimates for objects you can touch, but not see vs see, but not touch.
+
+“Visual kinesthesis” works just like the motor version
+  - If you know you’ve moving, you know the world isn’t (or vice versa), even if sensory input is the same.
+
+Does the "ambient optic array" need to account for occulomotor phenomena?
+  - Gibson's view of "field of view" changes adds structure at the leading edge, removes it at the trailing edge.
+  - In reality, eye movements (and maybe head?) do a lot more: saccadic suppression, release from adaptation, etc.
+
+Rubber hand illusion and the sense of self
+   - Does the shape matter? 
+   - Link between size-weight and rubber hand illusion: https://pubmed.ncbi.nlm.nih.gov/20192129/
+   - Pawan Sinha's work with patients who recover from early-onset blindness
+
+Heuristics vs Planning Rule:
+   - Enlarging visual angle of your mom → similar to ball-catching heuristic from week 3
+   - Maybe simple heuristics just work pretty well (e.g., foraging in worms)
+   - Some behaviors are said to be nearly optimal (e.g., visual search: https://pubmed.ncbi.nlm.nih.gov/15772663/)
+        - Optimality claims are tricky--can choose the cost function to fit the data 
+   - Maps as affordances / Tollman/Brunswick vs. Gibson?
+        - Tolman, E. C., & Brunswik, E. (1935). The organism and the causal texture of the environment. Psychological Review, 42(1), 43–77. https://doi.org/10.1037/h0062156
+        - Transfer learing between Alley mazes and sunburst mazes (See Figure 1 here: https://www.ucl.ac.uk/jefferylab/publications/2004_Jeffery_et_al_Hippocampus-Verlag.pdf)
+        
+Where is Gibson in neuroscience?
+   -  No 2.5D sketch in neural networks
+   - Sam’s Direct-fit paper
+   - Gibson  as ‘Muse for psychophysicists and robot designers’ vs. Marr’s focus on internals
+   - Optic flow is funny since it was coined by Gibson but extensively studied from a Marr-ish perspective. 
+
+
+
