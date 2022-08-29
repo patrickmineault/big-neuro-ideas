@@ -2,7 +2,7 @@
 
 An ongoing journal club for the study of big ideas in neuroscience. 
 
-# What are reading right now?
+# What are we reading right now?
 
 We're reading [Gibson, an ecological approach to perception (1968)](https://archive.org/details/pdfy-u5hmFOvOM2Civ4Gz/mode/2up). Notes so far:
 
